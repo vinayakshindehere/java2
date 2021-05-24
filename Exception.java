@@ -6,7 +6,9 @@ public class Exception {
 		// TODO Auto-generated method stub
 
 System.out.println("hi how are u");
-System.out.println("third commit")
+System.out.println("third commit");
+System.out.println("fourth commit");
+
 
 	}
 
